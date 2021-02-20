@@ -1,0 +1,24 @@
+{
+  "name": "travis-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha || chai"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tashmax19/travis-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tashmax19/travis-test/issues"
+  },
+  "homepage": "https://github.com/Tashmax19/travis-test#readme",
+  "dependencies": {
+    "chai": "^4.3.0",
+    "express": "^4.17.1",
+    "mocha": "^8.3.0"
+  }
+}
