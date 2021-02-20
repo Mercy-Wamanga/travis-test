@@ -18,7 +18,9 @@
   "homepage": "https://github.com/Tashmax19/travis-test#readme",
   "dependencies": {
     "chai": "^4.3.0",
-    "express": "^4.17.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
     "mocha": "^8.3.0"
   }
 }
