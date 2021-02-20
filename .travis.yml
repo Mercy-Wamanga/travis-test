@@ -4,5 +4,5 @@ node_js:
 cache:
   directories:
     - "node_modules"
-before_script: chmod 0777 ./node_modules/.bin/mocha
+before_script: chmod 0777 /var/lib/openshift/53ef9c315973cabb00034c/app-root/runtime/repo/node_modules/.bin/mocha
     
